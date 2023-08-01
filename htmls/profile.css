@@ -1,0 +1,28 @@
+body{
+    background-color:blue;
+    color:white;
+}
+body img{
+    height: 100px;
+    width: 100px;
+    margin: 10px 10px;
+    border-radius: 100px;
+}
+
+.name{
+width: fit-content
+}
+.social{
+    text-align: center;
+    background-color: rgb(13, 13, 49);
+    
+}
+.social img{
+    height: 23px;
+    width: 23px;
+}
+
+video{
+    height: 400px;
+    width: fit-content;
+}

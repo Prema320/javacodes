@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Registration Form</title>
+    <link rel="StyleSheet" href="reg.css">
+</head>
+<body>
+    <form class="form">
+      <h2 style="margin-left: 10px;">Registration</h2>
+    
+    <div class="space">
+        Username<span class="req">*</span>
+       <input class="username" type="text" id="userId" value="" style="margin-left: 50px;" required>
+    </div><br>
+    <div  class="space">
+        First Name<span class="req">*</span>
+        <input class="fname" type="text" id="firstId" value="" required>
+    </div><br>
+    <div class="space">
+        Middle Name
+        <input class="lname" type="text" id="lastId" value="" style="margin-left: 34px;">
+    </div><br>
+    <div class="space">
+        Last Name<span class="req">*</span>
+        <input class="lname" type="text" id="lastId" value="" style="margin-left: 43px;" required>
+    </div><br>
+    <div class="space">
+        Password
+        <input class="pass" type="text" id="passId" value="" style="margin-left: 60px;" required>
+    </div><br>
+    <div class="space">
+       Confirm Password
+        <input class="conpass" type="text" id="confId" value="" required>
+    </div><br>
+    <div class="space">
+        Email<span class="req">*</span>
+        <input class="email" type="email" id="mailId" value="" style="margin-left: 75px;" required>
+    </div><br>
+    <div class="space">
+        Date of Birth
+        <input type="date" id="dateId" value="" style="margin-left: 37px;">
+    </div><br>
+    <div class="space">
+        Gender: 
+        <input type="radio"    id="maleId" name="gender" value="Male"><label for="male">Male</label>
+        <input type="radio"  id="femaleId" name="gender" value="Female"><label for="female">Female</label>
+        <input type="radio"  id="othersId" name="gender" value="Others"><label for="others">Others</label>
+    </div><br>
+    <div class="space">
+        Skills:
+        <input type="checkbox" id="cId" name="check" value="C-programming"><label for="c">C-Programming</label><br>
+        <input type="checkbox" id="javaId" name="check1" value="Java" style="margin-left: 48px;"><label for="java">Java</label><br>
+        <input type="checkbox" id="htmlId" name="check2" value="HTML" style="margin-left: 48px;"><label for="html">HTML</label><br>
+        <input type="checkbox" id="cssId" name="check3" value="CSS" style="margin-left: 48px;"><label for="css">CSS</label><br>
+        <input type="checkbox" id="scriptId" name="check4" value="JavaScript" style="margin-left: 48px;"><label for="script">JavaScript</label><br>
+        <input type="checkbox" id="nodeId" name="check5" value="Node.js" style="margin-left: 48px;"><label for="node">Node.js</label><br>
+        <input type="checkbox" id="netId" name="check6" value=".Net" style="margin-left: 48px;"><label for="net">.Net</label><br>
+
+    </div><br>
+    <div id="button">
+        <input id="button1" type="submit" id="buttonId" value="Register">
+        <input id="button2" type="submit" id="buttonId" value="Cancel">
+    </div>
+
+    </form>
+</body>
+</html>

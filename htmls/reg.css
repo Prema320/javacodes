@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(82, 129, 129);
+    color: rgb(9, 9, 9);
+}
+
+form{
+    height: 580px;
+    width: 330px;
+    margin-left:380px ;
+    margin-right: 350px;
+    background-color: rgb(157, 245, 245);
+    border-radius: 10px;
+}
+.req{
+    color: pink;
+}
+.space{
+    margin-left: 20px;
+}
+#button1{
+    margin-left: 80px;
+   background-color: rgb(181, 250, 113);
+   border: none;
+   cursor: pointer;
+   transition: transform 0.2s ease-in-out;
+}
+#button1:hover{
+    transform: translate(5px);
+}
+#button2{
+    margin-left: 30px;
+    background-color: rgb(242, 102, 102);
+    border: none;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+ }
+ #button2:hover{
+     transform: translate(5px);
+ }
+.fname{
+ border: 1px solid;
+ box-shadow: 2px 2px 4px rgba(0,0,0);
+ margin-left: 40px;
+}
+.username{
+    border: 1px solid;
+    box-shadow: 2px 2px 4px rgba(0,0,0);
+    margin-left: 47px;
+   }
+.lname{
+    border: 1px solid;
+    box-shadow: 2px 2px 4px rgba(0,0,0);
+    margin-left: 48px;
+   }
+   .pass{
+    border: 1px solid;
+    box-shadow: 2px 2px 4px rgba(0,0,0);
+    margin-left: 48px;
+   }
+   .conpass{
+    border: 1px solid;
+    box-shadow: 2px 2px 4px rgba(0,0,0);
+   }
+   .email{
+    border: 1px solid;
+    box-shadow: 2px 2px 4px rgba(0,0,0);
+    margin-left: 48px;
+   }
