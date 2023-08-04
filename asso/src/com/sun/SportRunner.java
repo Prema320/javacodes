@@ -4,7 +4,7 @@ public class SportRunner {
 
 	public static void main(String[] args) {
 		
-         String name="kabbadi";
+         String name="Cricket";
 		
 		Floor f1=new Floor("groundfloor",0);
 		Floor f2=new Floor("1stfloor",1);
@@ -29,8 +29,8 @@ public class SportRunner {
 		Area[] area = {a1,a2};
 		
 		HomeTown town=new HomeTown("Davanager",577601,area);
-		Player p1=new Player("prema",15,building,town);
-		Player p2=new Player("virat",10,building,town);
+		Player p1=new Player("Dhoni",15,b1,town);
+		Player p2=new Player("Virat",10,b2,town);
 		Player[] player= {p1,p2};
  		
 		Sport s1=new Sport(name,player);

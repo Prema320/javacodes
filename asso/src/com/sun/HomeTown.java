@@ -14,7 +14,7 @@ public class HomeTown {
 		System.out.println("pincode:"+pincode);
 		for(int i=0;i<this.area.length;i++) {
 			Area ref=this.area[i];
-			System.out.println(ref);
+			ref.printInfo();
 			
 		}
 		

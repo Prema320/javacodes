@@ -13,7 +13,7 @@ public class Ingridents {
 	}
 
 	public void printInfo() {
-		System.out.println("name is:" + name);
+		System.out.println("name is at index:"+name);
 		System.out.println("quantity is: " + quantity);
 		System.out.println("cost is:" + cost);
 
