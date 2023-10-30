@@ -1,14 +1,13 @@
-package com.xworkz.mart;
-
-import com.xworkz.mart.grocerry.Grocerry;
+package com.xworkz.mart.grocerry;
 
 import java.util.Arrays;
 
-public class Dmart {
+public class DmartImpl implements SuperMarket {
     Grocerry grocerries[];
     int index;
     int id=1;
-    public Dmart(int size){
+    public DmartImpl(int size){
+         int a=0;
 
         grocerries=new Grocerry[size];
     }

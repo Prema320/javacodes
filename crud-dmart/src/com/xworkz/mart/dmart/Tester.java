@@ -1,9 +1,9 @@
 package com.xworkz.mart.dmart;
 
-import com.xworkz.mart.Dmart;
+import com.xworkz.mart.grocerry.DmartImpl;
 import com.xworkz.mart.grocerry.Grocerry;
+import com.xworkz.mart.grocerry.SuperMarket;
 
-import java.nio.file.LinkPermission;
 import java.util.Scanner;
 
 public class Tester {
@@ -11,7 +11,7 @@ public class Tester {
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the no of groceries added");
         int size = sc.nextInt();
-        Dmart dmart = new Dmart(size);
+        SuperMarket dmart = new DmartImpl(size);
         for (int i = 0; i < size; i++) {
             Grocerry grocerry = new Grocerry();
             System.out.println("enter the groceryName");
