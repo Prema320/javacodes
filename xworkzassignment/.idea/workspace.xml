@@ -38,7 +38,20 @@
       <recent name="C:\Users\User\IdeaProjects\xworkzassignment\lib" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.AddTarget">
+    <configuration name="AddTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xworkz.assignment.AddTarget" />
+      <module name="xworkzassignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xworkz.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CountNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xworkz.assignment.CountNumber" />
       <module name="xworkzassignment" />
@@ -52,8 +65,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RightRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xworkz.assignment.RightRotate" />
+      <module name="xworkzassignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xworkz.assignment.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddTarget" />
+        <item itemvalue="Application.RightRotate" />
         <item itemvalue="Application.CountNumber" />
       </list>
     </recent_temporary>

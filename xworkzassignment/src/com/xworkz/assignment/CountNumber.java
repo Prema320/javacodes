@@ -2,7 +2,7 @@ package com.xworkz.assignment;
 
 public class CountNumber {
     public static void main(String[] args) {
-        int a[]={1,2,1,2,5,1,2};
+        int a[]={1,2,1,2,5,1,2,2,2};
         int target=2;
         int ans=count(a,target);
         System.out.println(ans);
