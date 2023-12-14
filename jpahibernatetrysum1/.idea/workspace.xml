@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94215901-ab32-46a7-b282-04346ea51186" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../passport/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../feb-20th/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../feb-20th/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../feb-20th/src/com/xworkz/hireact/repository/HireactRepositoryImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../feb-20th/src/com/xworkz/hireact/repository/HireactRepositoryImp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../passport/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/src/main/java/PassportDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/src/main/java/Persistense.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/src/main/java/com/xworkz/passport/controller/PassPortRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/../passport/src/main/java/com/xworkz/passport/controller/PassPortRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/src/main/java/com/xworkz/passport/dto/PassportDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../passport/src/main/java/com/xworkz/passport/dto/PassportDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/src/main/java/com/xworkz/passport/entity/PassPortEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../passport/src/main/java/com/xworkz/passport/entity/PassPortEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/src/main/java/com/xworkz/passport/repository/PassPortRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../passport/src/main/java/com/xworkz/passport/repository/PassPortRepositoryImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/src/main/java/com/xworkz/passport/service/PassPortServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../passport/src/main/java/com/xworkz/passport/service/PassPortServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/src/main/resoucres/META-INF/Persistense.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/src/main/resoucres/PassPortEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/src/main/webapp/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/target/classes/META-INF/Persistense.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/target/classes/PassPortEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/target/classes/PassportDto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/target/classes/Persistense.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/target/classes/com/xworkz/passport/controller/PassPortRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../passport/target/classes/com/xworkz/passport/controller/PassPortRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/target/classes/com/xworkz/passport/dto/PassportDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../passport/target/classes/com/xworkz/passport/dto/PassportDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/target/classes/com/xworkz/passport/entity/PassPortEntity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../passport/target/classes/com/xworkz/passport/entity/PassPortEntity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/target/classes/com/xworkz/passport/repository/PassPortRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/../passport/target/classes/com/xworkz/passport/repository/PassPortRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/target/classes/com/xworkz/passport/repository/PassPortRepositoryImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../passport/target/classes/com/xworkz/passport/repository/PassPortRepositoryImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/target/classes/com/xworkz/passport/service/PassPortService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../passport/target/classes/com/xworkz/passport/service/PassPortService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/target/classes/com/xworkz/passport/service/PassPortServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../passport/target/classes/com/xworkz/passport/service/PassPortServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../passport/target/test-classes/Persistense.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2ZJUJ5ktusZWz02EWdi5bdia724" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/META-INF" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\test\BrokeCodeTest\jpahibernatetrysum1\src\main\resources\META-INF" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xworkz.trysum.Runner" />
+      <module name="jpahibernatetrysum1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xworkz.trysum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94215901-ab32-46a7-b282-04346ea51186" name="Changes" comment="" />
+      <created>1702139601399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702139601399</updated>
+    </task>
+    <servers />
+  </component>
+</project>
